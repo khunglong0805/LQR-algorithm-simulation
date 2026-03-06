@@ -1,5 +1,5 @@
 # LQR-algorithm-simulation
-## 1.Policy iteration dynamic programming
+## 1. Policy iteration dynamic programming
 
 ### Ý tưởng thuật toán
 
@@ -10,7 +10,7 @@
 <img width="1395" height="625" alt="image" src="https://github.com/user-attachments/assets/61c0e1c6-e731-430f-8d59-d1b16d57c915" />
 
 
-## 2.Value iteration dynamic programming
+## 2. Value iteration dynamic programming
 
 ### Ý tưởng thuật toán
 
@@ -20,7 +20,7 @@
 
 <img width="1392" height="622" alt="image" src="https://github.com/user-attachments/assets/c99307ef-a131-4590-9d06-9e95f0effbb7" />
 
-## 3.Policy iteration continous LQR
+## 3. Policy iteration continous LQR
 
 ### Ý tưởng thuật toán
 
@@ -31,7 +31,7 @@
 <img width="868" height="817" alt="image" src="https://github.com/user-attachments/assets/14f0425b-2f6c-4635-9c3a-3e0c6b2f2415" />
 
 
-## 4.Policy iteration discrete LQR
+## 4. Policy iteration discrete LQR
 
 ### Ý tưởng thuật toán
 
@@ -41,7 +41,7 @@
 
 <img width="778" height="811" alt="image" src="https://github.com/user-attachments/assets/971a3174-36f3-4205-afdc-1c0ce51137c3" />
 
-## 5.Value iteration discrete LQR
+## 5. Value iteration discrete LQR
 
 ### Ý tưởng thuật toán
 
