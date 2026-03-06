@@ -9,6 +9,9 @@ Kết quả thuật toán
 
 
 ## 2.Value iteration dynamic programming
+Ý tưởng thuật toán
+<img width="632" height="305" alt="image" src="https://github.com/user-attachments/assets/21358ee2-43da-4f19-8d41-8d148b2bb843" />
+
 Kết quả thuật toán
 <img width="1392" height="622" alt="image" src="https://github.com/user-attachments/assets/c99307ef-a131-4590-9d06-9e95f0effbb7" />
 
