@@ -15,6 +15,7 @@ Kết quả thuật toán
 ## 3.Policy iteration continous LQR
 Ý tưởng thuật toán
 <img width="978" height="470" alt="image" src="https://github.com/user-attachments/assets/5ac958f4-c755-433c-9557-ef5b5533d35e" />
+
 Kết quả thuật toán
 <img width="868" height="817" alt="image" src="https://github.com/user-attachments/assets/14f0425b-2f6c-4635-9c3a-3e0c6b2f2415" />
 
@@ -30,7 +31,9 @@ Kết quả thuật toán
 <img width="957" height="486" alt="image" src="https://github.com/user-attachments/assets/6f58c0f2-f6e9-4200-aed7-0421ca0b6eb0" />
 
 Kết quả thuật toán
-<img width="897" height="870" alt="image" src="https://github.com/user-attachments/assets/bbe160ed-9e58-4ead-b7e5-51346618292a" />
+<img width="895" height="867" alt="image" src="https://github.com/user-attachments/assets/8ee0a6c7-3c3f-4706-b568-5850fc4922c2" />
+
+
 
 
 
